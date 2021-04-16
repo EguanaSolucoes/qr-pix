@@ -1,0 +1,32 @@
+{
+  "name": "eguena/qr-pix",
+  "license": "MIT",
+  "description": "Exibição e montagem de QR Code do Pix",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Eguana Soluções",
+      "email": "wesley@eguana.com.br",
+      "homepage": "http://www.eguana.com.br"
+    }
+  ],
+  "homepage": "https://github.com/EguanaSolucoes/qr-pix",
+  "keywords": ["Pix", "Payload Pix", "QR Code", "QR Code Pix"],
+  "autoload": {
+    "psr-4": {
+      "Eguana\\QrPix\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Eguana\\QrPix\\Tests\\": "tests"
+    }
+  },
+  "require": {
+    "mpdf/qrcode": "^1.1"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master",
+    "phpunit/phpunit": "^7.0"
+  }
+}
