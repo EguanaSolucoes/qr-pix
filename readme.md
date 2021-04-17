@@ -45,9 +45,9 @@ use \Eguana\QrPix\Pix\QrCodePix;
 
 - [Eguana Soluções][link-author]
 
-[ico-version]: https://img.shields.io/packagist/v/eguana/iebrasil.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/eguana/iebrasil.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/eguana/iebrasil/master.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/eguana/qr-pix.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/eguana/qr-pix.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/eguana/qr-pix/master.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/12345678/shield
 
 [link-packagist]: https://packagist.org/packages/eguana/qr-pix
